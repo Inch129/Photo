@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photo</string>
+    <string name="Image">Your photo</string>
+    <string name="TakePhoto">Take Photo</string>
+    <string name="SavePhoto">Save</string>
+    <string name="Saving">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="action_settings">Settings</string>
+    <string name="smtng">Settings</string>
+</resources>
